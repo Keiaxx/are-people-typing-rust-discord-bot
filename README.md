@@ -17,3 +17,7 @@ cargo run
 
 `rustytyping` : Notify your server that people are typing in the most annoying way possible. Toggleable. Currently can be used by anyone. Oops
 
+## Embed Preview
+
+![Ridiculous Embed](embed.png)
+
